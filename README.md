@@ -2,10 +2,16 @@
 
 week 4
 
+Task 1
+
 ![Screenshot (48)](https://user-images.githubusercontent.com/128441040/235819408-50346bc4-193c-4910-857b-f8f74817ad57.png)
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/128441040/235819425-0a736789-8b64-48ee-bfe5-27ae17d4fbfb.png)
+
+Task 2
+
 IP Address Table
+
 ![Screenshot (50)](https://user-images.githubusercontent.com/128441040/235822533-3734a06d-27a2-4fbf-a4ff-a6591ea6615a.png)
 
 
@@ -35,4 +41,16 @@ PC2
 PC3
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/128441040/235822686-8518b167-d086-46fc-a485-5d537976e2ef.png)
+
+Task 3
+
+Home Network
+
+![Screenshot (60)](https://user-images.githubusercontent.com/128441040/235823167-bba0579e-e21b-485f-a65e-854cae3a9944.png)
+
+
+Mobile Network
+
+![Screenshot (61)](https://user-images.githubusercontent.com/128441040/235823211-30c4128b-6f5f-4f8c-afec-ff90721efd28.png)
+
 
