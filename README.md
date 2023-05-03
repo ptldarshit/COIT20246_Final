@@ -19,7 +19,8 @@ PC 4                     192.168.2.2/24           192.168.2.1
 PC 5                     192.168.2.3/24           192.168.2.1
 
 Network Diagram
-![image](https://user-images.githubusercontent.com/128441040/235821412-f2168a4f-938a-4cfc-8bb3-4919651206d9.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/128441040/235821943-a8aeb116-6e4c-47c6-ae33-a22ad3e3a733.png)
+
 Router 1
 Destination     Mask            Next Hop
 ---------------------------------------------------
