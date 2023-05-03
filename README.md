@@ -64,3 +64,14 @@ B)  Universities may consider using IP addresses as a helpful tool to stop acade
 C)  The advantages and disadvantages of utilising a VPN while studying in Australia should be carefully considered by prospective students. They should balance the potential advantages of using web services that are only accessible in their home country or safeguarding their privacy and security against the risks of breaking web service providers' terms of service, running afoul of the law, or possibly even having their internet speed reduced. Students also need to be informed of any potential repercussions for breaking the university's VPN usage restrictions as well as the policies itself.
 
 
+Week 5
+
+Task 1
+
+![Screenshot (62)](https://user-images.githubusercontent.com/128441040/235835950-dff17725-b5a1-472e-8499-7d6f3eda7f16.png)
+
+
+![Screenshot (63)](https://user-images.githubusercontent.com/128441040/235835971-60d1c59c-1680-485d-a4da-b0ef9400a1ad.png)
+
+
+
