@@ -10,12 +10,15 @@ IP Address Table
 
 
 Network Diagram
+
 ![Screenshot (52)](https://user-images.githubusercontent.com/128441040/235821943-a8aeb116-6e4c-47c6-ae33-a22ad3e3a733.png)
 
 Router 1
+
 ![Screenshot (55)](https://user-images.githubusercontent.com/128441040/235822552-32339bf7-7252-486a-8f53-153daa75c10f.png)
 
 Router 2
+
 ![Screenshot (56)](https://user-images.githubusercontent.com/128441040/235822580-2e4f7f06-8b8f-4505-97ce-bb968d51136e.png)
 
 
@@ -25,9 +28,11 @@ PC1
 
 
 PC2
+
 ![Screenshot (58)](https://user-images.githubusercontent.com/128441040/235822651-7d3b7fb3-0d05-4aa4-916f-adc1d93e3b47.png)
 
 
 PC3
+
 ![Screenshot (59)](https://user-images.githubusercontent.com/128441040/235822686-8518b167-d086-46fc-a485-5d537976e2ef.png)
 
